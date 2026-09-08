@@ -228,19 +228,6 @@ The project includes several limitations that should be considered when interpre
 
 The findings should therefore be interpreted within the context of the dataset and analytical scope used in this project.
 
----
-
-## 🚀 Future Improvements
-
-Potential extensions of this project include:
-
-- Analyzing the impact of pit-stop strategies
-- Comparing driver and constructor performance
-- Investigating performance by circuit
-- Analyzing performance trends across seasons
-- Exploring race strategy variables
-- Developing predictive models for future race outcomes
-
 
 ---
 
